@@ -6,13 +6,15 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 * Alexandre Augusto Niess Ferreira
 * Victor Campos Tavares
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Caio Gomes Alcântara Glória
+* Rafael Maluf Araújo
+* Gabriel Henrique Vieira de Oliveira
+* João Vitor Silva Jardim
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Rommel Vieira Carneiro
+* João Carlos Oliveira Caetano
 
 ## Instruções de utilização
 
