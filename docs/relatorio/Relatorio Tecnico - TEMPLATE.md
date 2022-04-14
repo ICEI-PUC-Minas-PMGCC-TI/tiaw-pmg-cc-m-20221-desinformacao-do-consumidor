@@ -56,9 +56,9 @@ Ciencias da Computação - PUCMG
 
 Com o grande avanço tecnológico que vem ocorrendo nas ultimas décadas é quase impossível não possuir um objeto que contempla as ultimas tecnologias. Entretanto o mundo do hardware ainda é uma bolha muito reclusa e pequena, com seu vocabulário robusto e a grande quantidade de informação sobre a área espalhada pela internet, a tarefa de encontrar o aparelho tecnológico ideal se torna quase impossível. É preciso a criação de uma plataforma capaz de resolver o problema de desinformação no consumo de eletrônicos
 >
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
+> Foi utilizado a plataforma Miro para desenvolvimento por meio de Design Thinking
+> A partir dessa foi possivel encontrar os principais aspectos que afetam o problema, organização das respostas de pesquisas realizadas em campo para a criação de Personas 
+> na plataforma foi realizado um processo de brainstorm para se analizar as melhores maneiras de combater o problema previamente citado
 >
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
