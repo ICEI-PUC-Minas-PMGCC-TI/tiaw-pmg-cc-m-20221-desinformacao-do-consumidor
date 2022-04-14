@@ -1,7 +1,5 @@
 # Informações do Projeto
-'Desinformação do Consumidor em Produtos Eletronicos"
-
-Com o grande avanço tecnológico que vem ocorrendo nas ultimas décadas é quase impossível não possuir um objeto que contempla as ultimas tecnologias. Entretanto o mundo do hardware ainda é uma bolha muito reclusa e pequena, com seu vocabulário robusto e a grande quantidade de informação sobre a área espalhada pela internet, a tarefa de encontrar o aparelho tecnológico ideal se torna quase impossível. É preciso a criação de uma plataforma capaz de resolver o problema de desinformação no consumo de eletrônicos
+Desinformação do Consumidor em Produtos Eletronicos - Grupo 1
 
 Ciencias da Computação - PUCMG
 
@@ -60,12 +58,7 @@ Ciencias da Computação - PUCMG
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
+Com o grande avanço tecnológico que vem ocorrendo nas ultimas décadas é quase impossível não possuir um objeto que contempla as ultimas tecnologias. Entretanto o mundo do hardware ainda é uma bolha muito reclusa e pequena, com seu vocabulário robusto e a grande quantidade de informação sobre a área espalhada pela internet, a tarefa de encontrar o aparelho tecnológico ideal se torna quase impossível. É preciso a criação de uma plataforma capaz de resolver o problema de desinformação no consumo de eletrônicos
 >
 > Nesse momento, o grupo pode optar por fazer uso
 > de ferramentas como Design Thinking, que permite um olhar de ponta a
