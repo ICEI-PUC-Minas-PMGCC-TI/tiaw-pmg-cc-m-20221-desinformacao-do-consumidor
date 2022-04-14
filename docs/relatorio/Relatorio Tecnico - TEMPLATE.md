@@ -1,5 +1,5 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+'Desinformação do Consumidor em Produtos Eletronicos"
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -14,7 +14,7 @@
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
-> - Fulano da Silva
+> - Pedro Miranda Rodrigues
 > - Ciclano Albuquerque
 
 # Estrutura do Documento
