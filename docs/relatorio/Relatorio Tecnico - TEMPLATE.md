@@ -1,15 +1,11 @@
 # Informações do Projeto
 'Desinformação do Consumidor em Produtos Eletronicos"
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Com o grande avanço tecnológico que vem ocorrendo nas ultimas décadas é quase impossível não possuir um objeto que contempla as ultimas tecnologias. Entretanto o mundo do hardware ainda é uma bolha muito reclusa e pequena, com seu vocabulário robusto e a grande quantidade de informação sobre a área espalhada pela internet, a tarefa de encontrar o aparelho tecnológico ideal se torna quase impossível. É preciso a criação de uma plataforma capaz de resolver o problema de desinformação no consumo de eletrônicos
 
-`CURSO` 
-
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciencias da Computação - PUCMG
 
 ## Participantes
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
