@@ -14,8 +14,14 @@
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
+>
 > - Pedro Miranda Rodrigues
-> - Ciclano Albuquerque
+> - Alexandre Augusto Niess Ferreira
+> - Victor Campos Tavares
+> - Caio Gomes Alcântara Glória
+> - Rafael Maluf Araújo
+> - Gabriel Henrique Vieira de Oliveira
+> - João Vitor Silva Jardim
 
 # Estrutura do Documento
 
