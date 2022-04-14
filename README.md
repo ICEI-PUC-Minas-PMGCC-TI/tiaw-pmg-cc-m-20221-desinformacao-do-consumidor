@@ -10,6 +10,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Rafael Maluf Araújo
 * Gabriel Henrique Vieira de Oliveira
 * João Vitor Silva Jardim
+* Pedro Miranda
 
 ## Professores responsáveis
 
