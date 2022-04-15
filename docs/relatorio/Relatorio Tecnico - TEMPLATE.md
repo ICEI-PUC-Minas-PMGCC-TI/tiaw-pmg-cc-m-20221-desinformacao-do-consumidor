@@ -79,17 +79,11 @@ que esse tem a necessidade.
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Na atualidade o uso de aparelhos eletronicos é extremamente importante,
+entretando saber exatamente qual aparelho comprar é de igual importancia, porem,
+o vocabulario robusto exsitente no mundo de hardware e a grande numero de informação espalhada pela internet torna a compra de um aparelho
+eletronico ideal quase impossivel, por esse motivo que é necessario a criação de um software capaz de resolver tal problema que pertuba a sociedade moderna.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
