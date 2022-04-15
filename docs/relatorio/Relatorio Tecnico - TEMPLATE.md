@@ -102,11 +102,10 @@ ao realizar a compra de um aparelho eletronico
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Nessa parte do documento sera abordado de maneira mais profunda a questão do publico alvo
+tendo em vista a criação de personas para tornar tal analize mais pessoal, tambem sera abordado uma parte mais tecnica
+relatando especificações tecnicas e desenvolvendo um prototipo de aplicativo, por fim é apresentado a metodologia usada para o desenvolvimento 
+completo desse.
 
 ## Personas e Mapas de Empatia
 
