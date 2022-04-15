@@ -89,19 +89,13 @@ eletronico ideal quase impossivel, por esse motivo que é necessario a criação
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
+O publico alvo do projeto é abrangente, os usuarios são desde idosos que nunca tiverão contato com o mundo do hardware 
+e querem comprar o telefone ideal para um neto, ate crianças que querem entender mais sobre os termos 
+e descubrir as melhores peças para montar um computador, entrentando grande parte do publico alvo é composto 
+por adultos que querem saber qual é o aparelho ideal para se usar no dia a dia, eles não querem necessariamente aprender 
+tudo sobre as nuancias das novas tecnologias, mas querem saber o suficinte para não depender de terceiros
+ao realizar a compra de um aparelho eletronico
+ 
 > **Links Úteis**:
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
