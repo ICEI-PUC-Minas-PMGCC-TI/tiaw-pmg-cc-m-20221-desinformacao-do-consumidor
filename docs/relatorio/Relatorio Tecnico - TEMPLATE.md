@@ -67,13 +67,12 @@ Com o grande avanço tecnológico que vem ocorrendo nas ultimas décadas é quas
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
+> O objetivo do trabalho é o desenvolvimento de um software capaz de acabar com a desinformação
+> de grande parte da população quando se trata da compra de aparelhos eletronicos,
+> ou seja, permitir que um comprador, a partir do uso do nosso software, seja capaz 
+> de escolher o melhor aparelho eletronico tendo em vista a sua necessidade de uso,
+> alem do mais, o usuario sera capaz de encontrar o melhor lugar para a compra do aparelho eletronico
+> que esse tem a necessidade.
 > 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
