@@ -67,13 +67,13 @@ Com o grande avanço tecnológico que vem ocorrendo nas ultimas décadas é quas
 
 ## Objetivos
 
-> O objetivo do trabalho é o desenvolvimento de um software capaz de acabar com a desinformação
-> de grande parte da população quando se trata da compra de aparelhos eletronicos,
-> ou seja, permitir que um comprador, a partir do uso do nosso software, seja capaz 
-> de escolher o melhor aparelho eletronico tendo em vista a sua necessidade de uso,
-> alem do mais, o usuario sera capaz de encontrar o melhor lugar para a compra do aparelho eletronico
-> que esse tem a necessidade.
-> 
+O objetivo do trabalho é o desenvolvimento de um software capaz de acabar com a desinformação
+de grande parte da população quando se trata da compra de aparelhos eletronicos,
+ou seja, permitir que um comprador, a partir do uso do nosso software, seja capaz 
+de escolher o melhor aparelho eletronico tendo em vista a sua necessidade de uso,
+alem do mais, o usuario sera capaz de encontrar o melhor lugar para a compra do aparelho eletronico
+que esse tem a necessidade.
+ 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
