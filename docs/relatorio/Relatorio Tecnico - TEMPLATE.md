@@ -139,8 +139,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Helena Yoshigaka    |Ler livros online                   |Gosto pessoal e adquirir conhecimento|
+|Helena Yoshigaka    |Estudar as matérias da escola.      |Para poder passar de ano e ter conhecimento|
+|Helena Yoshigaka    |Escutar músicas em um bom fone      |Para me concentrar e poder me divertir|
+|Carlos Santana      |Comprar com segurança               |Para não sofrer golpes novamente| 
+|Carlos Santana      |Segurança na hora de comprar online |Para não me arrepender da compra|
+|Neusa Luiza         |Poder comprar sozinha online        |Me sentir mais autônoma|
+|Neusa Luiza         |Conhecer sobre o produto            |Me sentir confortável e ter mais conhecimento|
 
 > Helena Yoshigaka nasceu em Belo Horizonte MG tem 15 anos e adora ler livros pelo
 > kindle e estudar pelo computador assistindo vídeos e lendo sobre assuntos de seu
