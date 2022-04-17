@@ -327,7 +327,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |Editor de Código  | VSCode |  | 
 |Ferramenta de Comunicação  | Discord |  |
 |Ferramenta de Diagramação | Microsoft Word |  | 
-|Plataforma de Hospedagem | Microsoft Word | replit | 
 
 > O editor de código foi escolhido porque ele possui uma integração com o
 > sistema de versão. As ferramentas de comunicação utilizadas possuem
