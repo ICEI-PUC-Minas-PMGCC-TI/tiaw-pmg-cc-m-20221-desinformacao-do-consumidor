@@ -191,7 +191,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
-|--------|-------------------------------------------|------|
+|------|-----------------------------------------|----|
 |RF-001| Deve apresentar opções de compra de acordo com a quantia monetária informada pelo consumidor | MEDIO | 
 |RF-002| Otimização para diferentes idades   | ALTO |
 |RF-003| Deve ter uma assistente virtual para facilitar para o usuário   | BAIXO |
