@@ -241,12 +241,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+A solução para o problema abordado pelo grupo foi criar um site/app que atendesse as demandas dos usuários. O grupo entrou em uma discussão de como isso poderia ser implementado e chegamos a conclusão que a melhor forma séria fazendo com que os usuários tivessem como informar que tipo de produtos eles querem, o “teto” monetário que eles podem gastar no produto, uma forma de localizar sites e lojas que sejam confiáveis para efetuar as compras, apresentar as principais especificações técnicas dos aparelhos, além de que o site deveria ter uma otimização por idade para que as diferentes idades pudessem usufruir de forma total do site/app.
 
 ## User Flow
 
