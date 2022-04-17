@@ -167,6 +167,19 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 > para comprar e que o evite de tomar golpes o fez saltar de alegria e ficar muito
 > entusiasmado.
 > 
+> Neusa Luiza, uma senhora de 71 anos, onde seu principal hobby é assistir 
+> programas na sua smart TV e utilizar seu telefone para conversar com sua família.
+> Neusa já está aposentada e tem um boa vida, e assim como a maioria das pessoas
+> da sua geração ela possui pouco conhecimento tecnológico e de internet a fazendo
+> ficar a mercê de golpes virtuais que podem ocorrer, que já ocorreram por sinal a
+> Dona Neusa foi comprar um produto tecnológico e acabou sofrendo um golpe do
+> vendedor que percebeu que ela tinha pouco conhecimento virtual, além de já ter
+> comprado um presente para seu neto que acabou não sendo o que seu netinho
+> queria pois o presente não atendia as necessidades de seu neto. Quando a Sra.
+> Luiza ficou sabendo do site/app que poderia auxiliá-la na horra das compras, ela
+> ficou extremamente feliz e esperançosa de poder fazer as coisas sem depender de
+> mais ninguém.
+> 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
