@@ -277,18 +277,8 @@ A solução para o problema abordado pelo grupo foi criar um site/app que atende
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+No grupo foi abordado a metodologia de Desing Thinking, sendo essa baseada em um método para estimular ideação e perspicácia ao abordar problemas, relacionados a futuras aquisições de informações, análise de conhecimento e propostas de soluções.Foi tambem implementado o Framework Scrum, sendo esse um framework com o qual as pessoas podem lidar com problemas adaptativos complexos, ao mesmo tempo que entregam produtos com o mais alto valor possível de forma produtiva e criativa. Para muitos, já não é novidade. É uma das metodologias ágeis com grande participação do cliente e entregas frequentes.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
 > **Links Úteis**:
 > - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
 > - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
