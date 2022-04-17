@@ -264,9 +264,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
-wireframe1.png
 ![Wireframe 1](images/wireframe1.png)
 ![Wireframe 2](images/wireframe2.png)
 ![Wireframe 3](images/wireframe3.png)
