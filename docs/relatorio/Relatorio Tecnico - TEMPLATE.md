@@ -119,7 +119,9 @@ completo desse.
 > Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
 > e/ou nos seguintes links:
 
-(imaages/../images/persona1.png)
+![Persona 1](imaages/../images/persona1.png)
+![Persona 2](imaages/../images/persona2.png)
+![Persona 3](imaages/../images/persona3.png)
 
 > **Links Úteis**:
 > - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
