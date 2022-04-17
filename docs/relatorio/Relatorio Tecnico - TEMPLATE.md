@@ -154,7 +154,19 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 > sem que um familiar ou amigo indique o produto para ela. Por isso a ideia de um site
 > que fizesse esse processo por ela foi algo que a animou bastante e a deixou
 > contente.
->
+> 
+> Carlos Santana nasceu em Itaúna MG tem 26 anos e é um amante de exercícios 
+> físicos, trabalha de personal trainer em uma academia da sua cidade e tem o sonho
+> de abrir sua própria academia. Carlos sempre teve muito contato com a tecnologia e
+> a utiliza com muita frequência em seus treinos principalmente o smartwatch que ele
+> usa para medir seu desempenho além de claro um fone Bluetooth para escutar suas
+> músicas enquanto se exercita. Carlos sempre teve muito de que algum de seus
+> produtos estrague, pois ele não saberia por qual dentre as milhares de opções 
+> trocar, além do que ele já sofreu muitos golpes virtuais e morre de medo que isso
+> aconteça novamente. A ideia de um site/app que possa informar o melhor produto
+> para comprar e que o evite de tomar golpes o fez saltar de alegria e ficar muito
+> entusiasmado.
+> 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
