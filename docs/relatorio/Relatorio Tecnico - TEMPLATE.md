@@ -192,8 +192,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Deve apresentar opções de compra de acordo com a quantia monetária informada pelo consumidor | MEDIO | 
+|RF-002| Otimização para diferentes idades   | ALTO |
+|RF-003| Deve ter uma assistente virtual para facilitar para o usuário   | BAIXO |
+|RF-004| Otimização para diferentes plataformas   | MEDIO |
+|RF-005| Deve apresentar as principais especificações técnicas e seus significados   | ALTO |
+|RF-006| Uma aba de comparação entre os produtos   | BAIXO |
+|RF-007| Deve oferecer uma funcionalidade de filtro/pesquisa para localizar aparelhos   | MEDIO |
+|RF-008| Tutorial em vídeo para aprenderem a mexer no site   | BAIXO |
+|RF-009| Possuir um fórum de discussão sobre os produtos   | BAIXO |
+|RF-010| Permitir salvar produtos como preferidos   | MEDIO |
+|RF-011| Indicar sites que sejam confiáveis e seguros   | ALTO |
 
 
 ### Requisitos não Funcionais
