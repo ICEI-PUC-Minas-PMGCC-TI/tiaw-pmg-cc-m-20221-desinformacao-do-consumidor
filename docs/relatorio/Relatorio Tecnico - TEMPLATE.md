@@ -118,7 +118,9 @@ completo desse.
 > 
 > Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
 > e/ou nos seguintes links:
->
+
+(imaages/../images/persona1.png)
+
 > **Links Úteis**:
 > - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
 > - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
