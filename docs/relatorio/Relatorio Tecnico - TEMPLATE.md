@@ -152,7 +152,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 > interesse. Recentemente ela queira comprar um fone para continuar escutando suas
 > músicas enquanto se exercita na academia porém ela não tem o conhecimento total
 > na área de tecnologia para dizer qual o melhor fone para ela exatamente fazendo
-> com que o medo de acabar comprando um produto que não a satisfaça, além do
+> com que o medo de acabar comprando um produto que não a satisfaça aumente, além do
 > medo de sofrer um golpe online, acabam fazendo com que ela não consiga comprar
 > sem que um familiar ou amigo indique o produto para ela. Por isso a ideia de um site
 > que fizesse esse processo por ela foi algo que a animou bastante e a deixou
