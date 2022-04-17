@@ -242,8 +242,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto não deverá deixar de fazer a vistoria nos sites para contar se eles são realmente seguros. |
+|02| O site não pode deixar de atender um consumidor.        |
+|03| O site não pode deixar de ter a ficha técnica do produto, avaliações e uma forma de comparar produtos. |
+|04| Os integrantes não podem deixar de fazer enquetes para descobrir o que melhorar no site. |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
