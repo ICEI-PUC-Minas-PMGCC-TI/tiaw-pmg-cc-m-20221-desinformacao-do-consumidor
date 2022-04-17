@@ -266,21 +266,22 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
+wireframe1.png
+![Wireframe 1](images/wireframe1.png)
+![Wireframe 2](images/wireframe2.png)
+![Wireframe 3](images/wireframe3.png)
+![Wireframe 4](images/wireframe4.png)
+![Wireframe 5](images/wireframe5.png)
+![Wireframe 6](images/wireframe6.png)
+![Wireframe 7](images/wireframe7.png)
+
+
 > **Links Úteis**:
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
 > - [Figma](https://www.figma.com/)
 > - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
 > - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
 > 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
-
 
 # Metodologia
 
@@ -303,20 +304,20 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
+Scrum Master:
+>Alexandre Augusto Niess Ferreira
 
-Divisão de Papéis:
-·         Scrum Master:
-Alexandre Augusto Niess Ferreira
-·         Product Owner:
-Victor Campos Tavares
-·         Equipe de Desenvolvimento:
-Pedro Miranda Rodrigues (Líder)
-Alexandre Augusto Niess Ferreira
-Victor Campos Tavares
-Caio Gomes Alcântara Glória
-Rafael Maluf Araújo
-Gabriel Henrique Vieira de Oliveira
-João Vitor Silva Jardim
+Product Owner:
+>Victor Campos Tavares
+
+Equipe de Desenvolvimento:
+>Pedro Miranda Rodrigues (Líder)
+>Alexandre Augusto Niess Ferreira
+>Victor Campos Tavares
+>Caio Gomes Alcântara Glória
+>Rafael Maluf Araújo
+>Gabriel Henrique Vieira de Oliveira
+>João Vitor Silva Jardim
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
