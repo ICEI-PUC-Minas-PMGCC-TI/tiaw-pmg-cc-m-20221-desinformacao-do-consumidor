@@ -2,4 +2,5 @@
 
 Mantenha neste diretório todo o código fonte do projeto. 
 
-Se necessário, descreva neste arquivo aspectos relevantes da estrutura de diretórios criada para organização do código.
+O diretório nomeado Price.ly apresenta o template do projeto final, nele esta presente os codigos HTML, CSS, a base do JS e alguns plugins 
+para deixar o site mais dinamico, entretanto o site presente nesse é estatico, não reprensetando assim o projeto final 
