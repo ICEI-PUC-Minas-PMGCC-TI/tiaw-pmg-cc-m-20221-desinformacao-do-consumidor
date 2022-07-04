@@ -396,9 +396,9 @@ A solução implementada conta com os seguintes módulos:
 * Navegador - Interface básica do sistema 
   - Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
   - Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-	-> Categorias - seções de notícias apresentadas 
-	-> Temas - registro de opiniões dos usuários sobre as notícias
-	-> Comentários - lista de notícias mantidas para leitura e acesso posterior
+-> Categorias - seções de notícias apresentadas 
+-> Temas - registro de opiniões dos usuários sobre as notícias
+-> Comentários - lista de notícias mantidas para leitura e acesso posterior
 
 * Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
