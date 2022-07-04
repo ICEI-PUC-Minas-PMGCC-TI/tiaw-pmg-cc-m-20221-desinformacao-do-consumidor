@@ -368,82 +368,161 @@ Equipe de Desenvolvimento:
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nesta seção são apresentados os detalhes técnicos da solução criada pelo equipe, tratando da Arquitetura da Solução, as estruturas de dados e as telas já implementadas.
+
+## Arquitetura da Solução:
+
+**A. Diagrama de componentes:**
+Os componentes que fazem parte da solução são apresentados na figura que se segue:
+[imagem]
+
+A solução implementada conta com os seguintes módulos:
+* Navegador - Interface básica do sistema 
+  - Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+  - Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+	-> Categorias - seções de notícias apresentadas 
+	-> Temas - registro de opiniões dos usuários sobre as notícias
+	-> Comentários - lista de notícias mantidas para leitura e acesso posterior
+
+* Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
+
+**B. Hospedagem**
+O site utiliza a plataforma do Replit como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: 
+https://sprint4.alexandre-augus.repl.co/index.html
+A publicação do site no Replit é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: 
+https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-desinformacao-do-consumidor
+
+## Template do Site:
+O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente, conforme imagem abaixo: 
+[IMAGEM]
+
+O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-desinformacao-do-consumidor e é composto pelos seguintes layouts: 
+* Tela principal
+* Tela de visualização de posts
+
+A responsividade segue o padrão do Bootstrap.
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Definimos como meta principal durante o desenvolvimento de nossa aplicação que queríamos desenvolver algo fácil de usar, justamente porque o público alvo não tem tanta experiência com produtos eletrônicos. Dessa forma, pensamos em soluções que ficariam bem implementadas tanto na versão desktop, tanto na versão mobile.
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+# Fluco do Usuário:
+O esquema a seguir representa os possíveis "caminhos" que o usuário pode seguir em nosso site. Todas as telas (wireframes) nele presente estarão detalhadas abaixo.
+
+[IMAGEM]
+
+# Wireframes:
+Por ser uma aplicação bastante concisa, a quantidade de telas que o usuário tem que navegar é pequena, mas mesmo assim, é possível separar as telas em duas categorias:
+* Home: A home consiste na primeira tela que o usuário verá quando acessar o site. Nela será possível realizar a seleção do tema que se deseja saber mais e também alguns fatos sobre a aplicação.
+* Post: Consiste na parte de conteúdo do nosso blog (posts). Essa área, é a que o usuário vai realmente adquirir o conhecimento.
+Seguem abaixo os wireframes:
+[IMAGEM]
+[IMAGEM]
+[IMAGEM]
 
 ## Arquitetura da solução
+# Diagrama de componentes:
+Os componentes que fazem parte da solução são apresentados na figura que se segue:
+[IMAGEM]
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+A solução implementada conta com os seguintes módulos:
+* Navegador - Interface básica do sistema 
+  - Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+  - Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+	-> Categorias - seções de notícias apresentadas 
+	-> Temas - registro de opiniões dos usuários sobre as notícias
+	-> Comentários - lista de notícias mantidas para leitura e acesso posterior
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+* Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
+# Hospedagem:
+O site utiliza a plataforma do Replit como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: 
+https://sprint4.alexandre-augus.repl.co/index.html
+A publicação do site no Replit é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: 
+https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-desinformacao-do-consumidor
 
-# Avaliação da Aplicação
+# Template do Site:
+O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente, conforme imagem abaixo: 
+[IMAGEM]
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-desinformacao-do-consumidor e é composto pelos seguintes layouts: 
+* Tela principal
+* Tela de visualização de posts
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+A responsividade segue o padrão do Bootstrap.
 
-## Plano de Testes
+# Tela Principal:
+Tela que abrange todas as visualizações iniciais do site e a lista de posts disponíveis.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+[IMAGEM]
+[IMAGEM]
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+Tela de Post:
+[IMAGEM]
 
-## Ferramentas de Testes (Opcional)
+# Funcionalidades do Sistema (Telas):
+Nesta parte são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) para acesso e outras orientações de acesso são apresentadas na sequência.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+# Entrega Sprint 1 - Visualização de Notícias:
+* Alunos responsáveis: Pedro Miranda, Victor Campos, Rafael Maluf
+* Link do código: https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-desinformacao-do-consumidor
+A tela principal da aplicação apresenta as principais aplicações de nosso site, bem como link pra acessar as demais funcionalidades do site. Um exemplo da tela é apresentada na figura abaixo:
 
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+[IMAGEM]
 
-## Registros de Testes
+* Requisitos atendidos:
+RF-01; RF-02; RF-04; RF-07.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+* Artefatos da funcionalidade:
+index.html
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+* Instruções de acesso:
+Abra um navegador de Internet e informe a seguinte URL: https://sprint4.alexandre-augus.repl.co/index.html 
+A tela inicial é apresentada assim que o link for clicado.
 
+# Tela de Posts:
+* Alunos responsáveis: Caio Gomes, Alexandre Augusto, Gabriel Henrique, João Victor Silva
+* Link do código: https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-desinformacao-do-consumidor
+A tela de posts da aplicação apresenta os conteúdos relacionados aos produtos eletrônicos. Essa tela é que o usuário entra em contato com o conhecimento que nós propomos entregar. Um exemplo dessa parte é apresentada na figura abaixo:
+[IMAGEM]
+
+* Requisitos atendidos:
+RF-01; RF-02; RF-04; RF-05; RF-07; RF-11.
+
+* Artefatos da funcionalidade:
+blog.html
+
+* Instruções de acesso:
+Abra um navegador de Internet e informe a seguinte URL: https://sprint4.alexandre-augus.repl.co/index.html 
+A tela de posts pode ser acessada clicando em um dos assuntos apresentados na tela inicial.
+
+## 6. AVALIAÇÃO DA SOLUÇÃO
+O processo de realização dos testes da solução desenvolvida está documentado na seção que se segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos testes realizados.
+
+# Requisitos para realização do teste:
+* Site publicado na Internet
+* Navegador da Internet - Chrome, Firefox, Safari, Opera ou Edge
+* Conectividade de Internet para acesso às plataformas (APIs)
+
+Os testes funcionais a serem realizados no aplicativo são descritos nas tabelas a seguir:
+[IMAGEM]
+[IMAGEM]
+
+# Registro de Testes de Software
+Os resultados obtidos nos testes de software realizados são descritos na tabela a seguir:
+
+[IMAGEM]
+
+# Plano de Testes de Usabilidade:
+O planejamento dos testes de usabilidade a serem realizados com usuários são descritos na tabela a seguir:
+[IMAGEM]
+
+# Registro de Testes de Usabilidade:
+Os resultados obtidos nos testes de usabilidade realizados são descritos na tabela a seguir:
+[IMAGEM]
+[IMAGEM]
 
 # Referências
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
@@ -451,3 +530,5 @@ Equipe de Desenvolvimento:
 > **Links Úteis**:
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
 > - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+
+
