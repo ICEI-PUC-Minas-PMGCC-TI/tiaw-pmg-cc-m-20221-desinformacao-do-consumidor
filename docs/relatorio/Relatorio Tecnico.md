@@ -382,15 +382,15 @@ Por ser uma aplicação bastante concisa, a quantidade de telas que o usuário t
 * Post: Consiste na parte de conteúdo do nosso blog (posts). Essa área, é a que o usuário vai realmente adquirir o conhecimento.
 Seguem abaixo os wireframes:
 
-[IMAGEM]
-[IMAGEM]
-[IMAGEM]
+ ![Wireframe - Topo da Home](images/wireframe.png)
+ ![Wireframe - Parte inferior da Home](wireframehome2.png)
+ ![Wireframe - Blog Screen](images/uHQd2d2j9J71V13YQ7k8dZ.png)
 
 ## Arquitetura da solução
 Nessa parte, apresentamos os detalhes técnicos da aplicação criada pela equipe. 
 # Diagrama de componentes:
 Os componentes que fazem parte da solução são apresentados na figura que se segue:
-[IMAGEM]
+ ![Esquema da Arquitetura da Solução](images/esquema.png)
 
 A solução implementada conta com os seguintes módulos:
 * Navegador - Interface básica do sistema 
@@ -410,8 +410,7 @@ https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-desinformacao-do-
 
 # Template do Site:
 O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente, conforme imagem abaixo: 
-[IMAGEM]
-
+ ![Template Padrão do Site](images/templatedosite.png)
 O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-desinformacao-do-consumidor e é composto pelos seguintes layouts: 
 * Tela principal
 * Tela de visualização de posts
@@ -421,11 +420,12 @@ A responsividade segue o padrão do Bootstrap.
 * Tela Principal:
 Tela que abrange todas as visualizações iniciais do site e a lista de posts disponíveis.
 
-[IMAGEM]
-[IMAGEM]
+ ![Topo da tela principal](images/print1.png)
+ ![Parte inferior da tela principal](images/print2.png)
+
 
 Tela de Post:
-[IMAGEM]
+ ![Tela de posts](images/printtelaposts.png)
 
 # Funcionalidades do Sistema (Telas):
 Nesta parte são apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) para acesso e outras orientações de acesso são apresentadas na sequência.
@@ -435,7 +435,7 @@ Nesta parte são apresentadas as telas desenvolvidas para cada uma das funcional
 * Link do código: https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-desinformacao-do-consumidor
 A tela principal da aplicação apresenta as principais aplicações de nosso site, bem como link pra acessar as demais funcionalidades do site. Um exemplo da tela é apresentada na figura abaixo:
 
-[IMAGEM]
+ ![Topo da tela principal](images/print1.png)
 
 * Requisitos atendidos:
 RF-01; RF-02; RF-04; RF-07.
@@ -451,7 +451,7 @@ A tela inicial é apresentada assim que o link for clicado.
 * Alunos responsáveis: Caio Gomes, Alexandre Augusto, Gabriel Henrique, João Victor Silva
 * Link do código: https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-desinformacao-do-consumidor
 A tela de posts da aplicação apresenta os conteúdos relacionados aos produtos eletrônicos. Essa tela é que o usuário entra em contato com o conhecimento que nós propomos entregar. Um exemplo dessa parte é apresentada na figura abaixo:
-[IMAGEM]
+ ![Tela Posts](images/printpost.png)
 
 * Requisitos atendidos:
 RF-01; RF-02; RF-04; RF-05; RF-07; RF-11.
@@ -472,22 +472,22 @@ O processo de realização dos testes da solução desenvolvida está documentad
 * Conectividade de Internet para acesso às plataformas (APIs)
 
 Os testes funcionais a serem realizados no aplicativo são descritos nas tabelas a seguir:
-[IMAGEM]
-[IMAGEM]
+ ![Tela Posts](images/tabela1.png)
+ ![Tela Posts](images/tabela2.png)
 
 # Registro de Testes de Software
 Os resultados obtidos nos testes de software realizados são descritos na tabela a seguir:
 
-[IMAGEM]
+ ![Tela Posts](images/tabela3.png)
 
 # Plano de Testes de Usabilidade:
 O planejamento dos testes de usabilidade a serem realizados com usuários são descritos na tabela a seguir:
-[IMAGEM]
+ ![Tela Posts](images/tabela4.png)
 
 # Registro de Testes de Usabilidade:
 Os resultados obtidos nos testes de usabilidade realizados são descritos na tabela a seguir:
-[IMAGEM]
-[IMAGEM]
+ ![Tela Posts](images/tabela5.png)
+ ![Tela Posts](images/tabela6.png)
 
 # Referências
 
