@@ -367,7 +367,7 @@ Equipe de Desenvolvimento:
 
 
 
-## Tecnologias Utilizadas
+## Projeto de Interface
 
 Definimos como meta principal durante o desenvolvimento de nossa aplicação que queríamos desenvolver algo fácil de usar, justamente porque o público alvo não tem tanta experiência com produtos eletrônicos. Dessa forma, pensamos em soluções que ficariam bem implementadas tanto na versão desktop, tanto na versão mobile.
 
@@ -418,7 +418,7 @@ O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PM
 
 A responsividade segue o padrão do Bootstrap.
 
-# Tela Principal:
+* Tela Principal:
 Tela que abrange todas as visualizações iniciais do site e a lista de posts disponíveis.
 
 [IMAGEM]
