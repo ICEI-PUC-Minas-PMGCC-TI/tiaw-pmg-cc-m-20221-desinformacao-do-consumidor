@@ -366,41 +366,6 @@ Equipe de Desenvolvimento:
 # **############## SPRINT 1 ACABA AQUI #############**
 
 
-# Projeto da Solução
-
-Nesta seção são apresentados os detalhes técnicos da solução criada pelo equipe, tratando da Arquitetura da Solução, as estruturas de dados e as telas já implementadas.
-
-## Arquitetura da Solução:
-
-**A. Diagrama de componentes:**
-Os componentes que fazem parte da solução são apresentados na figura que se segue:
-[imagem]
-
-A solução implementada conta com os seguintes módulos:
-* Navegador - Interface básica do sistema 
-  - Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-  - Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-	-> Categorias - seções de notícias apresentadas 
-	-> Temas - registro de opiniões dos usuários sobre as notícias
-	-> Comentários - lista de notícias mantidas para leitura e acesso posterior
-
-* Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
-
-**B. Hospedagem**
-O site utiliza a plataforma do Replit como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: 
-https://sprint4.alexandre-augus.repl.co/index.html
-A publicação do site no Replit é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: 
-https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-desinformacao-do-consumidor
-
-## Template do Site:
-O padrão de layout a ser utilizado pelo site tem correspondência ao projeto de Interface elaborado anteriormente, conforme imagem abaixo: 
-[IMAGEM]
-
-O template criado está disponível no site https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-desinformacao-do-consumidor e é composto pelos seguintes layouts: 
-* Tela principal
-* Tela de visualização de posts
-
-A responsividade segue o padrão do Bootstrap.
 
 ## Tecnologias Utilizadas
 
