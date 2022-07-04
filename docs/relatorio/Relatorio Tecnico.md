@@ -379,7 +379,7 @@ Por ser uma aplicação bastante concisa, a quantidade de telas que o usuário t
 Seguem abaixo os wireframes:
 
  ![Wireframe - Topo da Home](images/wireframe.png)
- ![Wireframe - Parte inferior da Home](wireframehome2.png)
+ ![Wireframe - Parte inferior da Home](images/wireframehome2.png)
  ![Wireframe - Blog Screen](images/uHQd2d2j9J71V13YQ7k8dZ.png)
 
 ## Arquitetura da solução
