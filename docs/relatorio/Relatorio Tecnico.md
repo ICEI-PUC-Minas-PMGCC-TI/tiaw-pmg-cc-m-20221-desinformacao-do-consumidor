@@ -374,7 +374,7 @@ Definimos como meta principal durante o desenvolvimento de nossa aplicação que
 # Fluxo do Usuário:
 O esquema a seguir representa os possíveis "caminhos" que o usuário pode seguir em nosso site. Todas as telas (wireframes) nele presente estarão detalhadas abaixo.
 
-[IMAGEM]
+ ![Fluxo de telas do usuário](images/fluxodousuario.png)
 
 # Wireframes:
 Por ser uma aplicação bastante concisa, a quantidade de telas que o usuário tem que navegar é pequena, mas mesmo assim, é possível separar as telas em duas categorias:
