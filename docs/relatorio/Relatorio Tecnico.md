@@ -371,7 +371,7 @@ Equipe de Desenvolvimento:
 
 Definimos como meta principal durante o desenvolvimento de nossa aplicação que queríamos desenvolver algo fácil de usar, justamente porque o público alvo não tem tanta experiência com produtos eletrônicos. Dessa forma, pensamos em soluções que ficariam bem implementadas tanto na versão desktop, tanto na versão mobile.
 
-# Fluco do Usuário:
+# Fluxo do Usuário:
 O esquema a seguir representa os possíveis "caminhos" que o usuário pode seguir em nosso site. Todas as telas (wireframes) nele presente estarão detalhadas abaixo.
 
 [IMAGEM]
@@ -381,11 +381,13 @@ Por ser uma aplicação bastante concisa, a quantidade de telas que o usuário t
 * Home: A home consiste na primeira tela que o usuário verá quando acessar o site. Nela será possível realizar a seleção do tema que se deseja saber mais e também alguns fatos sobre a aplicação.
 * Post: Consiste na parte de conteúdo do nosso blog (posts). Essa área, é a que o usuário vai realmente adquirir o conhecimento.
 Seguem abaixo os wireframes:
+
 [IMAGEM]
 [IMAGEM]
 [IMAGEM]
 
 ## Arquitetura da solução
+
 # Diagrama de componentes:
 Os componentes que fazem parte da solução são apresentados na figura que se segue:
 [IMAGEM]
