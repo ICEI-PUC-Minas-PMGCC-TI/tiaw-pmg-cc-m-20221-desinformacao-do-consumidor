@@ -387,7 +387,7 @@ Seguem abaixo os wireframes:
 [IMAGEM]
 
 ## Arquitetura da solução
-
+Nessa parte, apresentamos os detalhes técnicos da aplicação criada pela equipe. 
 # Diagrama de componentes:
 Os componentes que fazem parte da solução são apresentados na figura que se segue:
 [IMAGEM]
