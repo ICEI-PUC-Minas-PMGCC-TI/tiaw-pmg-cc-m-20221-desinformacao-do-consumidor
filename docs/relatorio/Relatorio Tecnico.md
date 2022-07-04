@@ -363,10 +363,6 @@ Equipe de Desenvolvimento:
 >
 > ![Exemplo de Wireframe](images/Github-Workflow.png)
 
-# **############## SPRINT 1 ACABA AQUI #############**
-
-
-
 ## Projeto de Interface
 
 Definimos como meta principal durante o desenvolvimento de nossa aplicação que queríamos desenvolver algo fácil de usar, justamente porque o público alvo não tem tanta experiência com produtos eletrônicos. Dessa forma, pensamos em soluções que ficariam bem implementadas tanto na versão desktop, tanto na versão mobile.
