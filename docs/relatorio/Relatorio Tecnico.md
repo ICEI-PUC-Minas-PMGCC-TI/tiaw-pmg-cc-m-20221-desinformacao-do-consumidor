@@ -463,7 +463,7 @@ blog.html
 Abra um navegador de Internet e informe a seguinte URL: https://sprint4.alexandre-augus.repl.co/index.html 
 A tela de posts pode ser acessada clicando em um dos assuntos apresentados na tela inicial.
 
-## 6. AVALIAÇÃO DA SOLUÇÃO
+## Avaliação da Solução
 O processo de realização dos testes da solução desenvolvida está documentado na seção que se segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos testes realizados.
 
 # Requisitos para realização do teste:
